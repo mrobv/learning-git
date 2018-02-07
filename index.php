@@ -1,6 +1,6 @@
 <?php
 echo "Hello world!";
-for($i = 0; $i < 5; $i++) {
-    echo $i . "<br />";
-}
+$name = "mrobv";
+$age = 0;
+$planet = "earth";
  ?>

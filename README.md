@@ -1,0 +1,1 @@
+While I am learning the basics of Git and GitHub, I'll be doing some (perhaps lots of) basic things trying to improve my skills. All files in this repository are only meant as manner of mastering some basic knowledge about Git.
